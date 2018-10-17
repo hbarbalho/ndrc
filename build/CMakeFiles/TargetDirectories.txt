@@ -1,0 +1,3 @@
+/home/hbarbalho/workspace/ndrc/build/CMakeFiles/edit_cache.dir
+/home/hbarbalho/workspace/ndrc/build/CMakeFiles/rebuild_cache.dir
+/home/hbarbalho/workspace/ndrc/build/CMakeFiles/ndrc.dir

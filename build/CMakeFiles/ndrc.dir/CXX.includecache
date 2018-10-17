@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hbarbalho/workspace/ndrc/src/main.cpp
+iostream
+-
+ndrc/lagrangean.h
+/home/hbarbalho/workspace/ndrc/src/ndrc/lagrangean.h
+stdlib.h
+-
+time.h
+-
+
+/home/hbarbalho/workspace/ndrc/src/ndrc/lagrangean.h
+iostream
+-
+vector
+-
+

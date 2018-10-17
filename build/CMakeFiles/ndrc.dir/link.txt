@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -g3   CMakeFiles/ndrc.dir/src/main.cpp.o  -o ndrc 
